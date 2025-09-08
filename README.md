@@ -1,0 +1,2 @@
+# meta-horizon-worlds
+📦 Meta Horizon Worlds Scripts Library This repository contains a collection of custom libraries and scripts developed for Meta Horizon Worlds. The goal is to simplify the creation of interactive, dynamic, and optimized experiences within the platform.  
